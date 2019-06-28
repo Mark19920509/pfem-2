@@ -1,0 +1,11 @@
+#
+
+subsection Liquid characteristics
+	set Dynamic viscosity = 10.0
+	set Density = 1.0
+end
+
+subsection Domain split
+	set Number of partitiones in the x direction = 32
+	set Number of partitiones in the y direction = 32
+end
